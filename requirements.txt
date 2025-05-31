@@ -1,0 +1,6 @@
+tkinter
+scapy
+pandas
+matplotlib
+psutil
+requests
